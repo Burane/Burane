@@ -42,8 +42,8 @@ I'm a graduating in computer engineering in june 2023 🎓 from Conservatoire de
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Burane&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burane&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Burane&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burane&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
@@ -62,7 +62,6 @@ I'm a graduating in computer engineering in june 2023 🎓 from Conservatoire de
 	    <li><b>Code Editor:</b> InteliJ</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
