@@ -17,7 +17,7 @@ I'm a graduating in computer engineering in june 2023 🎓 from Conservatoire de
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Burane/Burane/issues/new)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: kerbiriouantoine@gmail.com.
-- 📝 &nbsp; Checkout my [Resume].
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Burane/Burane/blob/main/Antoine_KERBIRIOU_Resume.pdf).
 
 ### My Absolute Favorites:
 
